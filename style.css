@@ -1220,10 +1220,14 @@ form,
   height: 60vh;
   align-items: center;
   margin: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 #form{
   height: 100%;
   width: max-content;
+  margin-top: 2rem;
 
 }
