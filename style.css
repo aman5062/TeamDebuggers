@@ -1215,3 +1215,7 @@ form,
   padding: 0.45rem 1.2rem;
 }
 } */
+#form_container{
+  background-color: white;
+  height: 60vh;
+}
