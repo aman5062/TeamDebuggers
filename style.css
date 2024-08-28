@@ -1218,4 +1218,11 @@ form,
 #form_container{
   background-color: white;
   height: 60vh;
+  align-items: center;
+}
+
+#form{
+  height: 100%;
+  width: max-content;
+
 }
